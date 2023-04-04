@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RagnarockSocketServer", "RagnarockSocketServer\RagnarockSocketServer.csproj", "{2839CABC-8D41-4C3E-99F8-068BC4C2849D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2839CABC-8D41-4C3E-99F8-068BC4C2849D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2839CABC-8D41-4C3E-99F8-068BC4C2849D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2839CABC-8D41-4C3E-99F8-068BC4C2849D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2839CABC-8D41-4C3E-99F8-068BC4C2849D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D7A080D-E7B5-4FC2-8522-EFC2B7B93FF2}
+	EndGlobalSection
+EndGlobal
